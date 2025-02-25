@@ -1,14 +1,14 @@
 # Prachayapon's portfolio
 
 # Project
-Layoff Analysis Project
+### [Layoff Analysis Project](https://github.com/Prachayaponn/Layoff_MySQL_PowerBI)
 
 - Conducted data analysis on global layoffs (2020-2023) using SQL and Power BI, identifying trends across industries, countries, and funding stages.
 - Cleaned and processed a large dataset to extract meaningful insights on workforce reductions.
 - Developed interactive Power BI visualizations to showcase layoff patterns, industry impact, and funding stage correlations.
 - Generated actionable insights to highlight industries and company stages most affected by layoffs.
 
-E-commerce Analysis Project
+### E-commerce Analysis Project
 
 - Conducted data-driven analysis of customer behavior, sales trends, and discount impact using SQL & Power BI.
 - Developed pricing optimization strategies and customer retention insights to drive business growth.
