@@ -8,7 +8,7 @@
 - Developed interactive Power BI visualizations to showcase layoff patterns, industry impact, and funding stage correlations.
 - Generated actionable insights to highlight industries and company stages most affected by layoffs.
 
-### E-commerce Analysis Project
+### [E-commerce Analysis Project](https://prachayaponn.github.io/E-commerce_Mysql_PowerBI/)
 
 - Conducted data-driven analysis of customer behavior, sales trends, and discount impact using SQL & Power BI.
 - Developed pricing optimization strategies and customer retention insights to drive business growth.
